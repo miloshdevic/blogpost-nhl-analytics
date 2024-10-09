@@ -28,9 +28,7 @@ Before you start, make sure you have the following:
 
 Start by importing the necessary libraries and creating a class that will help us download the data. In the provided code, the ‘NHLDataDownloader’ class handles the data download process.
 
-<!-- {% include image_full.html imageurl="/images/milestone1/download_step1.png" caption="setting up the environment" %} -->
-{% include image_full.html imageurl="/images/milestone1/download_step1.png" caption="setting up the environment" %}
-<!-- ![setting up the environment]({{ site.baseurl }}/images/milestone1/download_step1.png) -->
+{% include image_full.html imageurl="blogpost-nhl-analytics/images/milestone1/download_step1.png" caption="setting up the environment" %}
 
 ### Step 2: Create an Instance of the Downloader
 
